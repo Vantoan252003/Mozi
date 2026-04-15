@@ -1,0 +1,72 @@
+{
+  "@@locale": "en",
+
+  "appName": "GoMove",
+
+  "continueBtn": "Continue",
+  "loginBtn": "Log In",
+  "confirmBtn": "Confirm",
+  "finishRegistrationBtn": "Complete Registration",
+
+  "welcomeTitle": "Welcome!",
+  "welcomeSubtitle": "Enter your phone number to continue.",
+  "phoneNumber": "PHONE NUMBER",
+  "phoneHint": "000 000 000",
+  "termsPrefix": "By continuing, you agree to our ",
+  "termsLink": "Terms & Policies",
+  "termsSuffix": ".",
+  "needHelp": "NEED HELP?",
+
+  "loginTitle": "Log In",
+  "loginSubtitle": "Welcome back,",
+  "forgotPassword": "Forgot password?",
+  "loginWithOtp": "Login with OTP",
+
+  "otpTitle": "OTP Verification",
+  "otpSentTo": "A verification code was sent to ",
+  "otpResendAfter": "Resend code in {seconds}s",
+  "@otpResendAfter": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  },
+  "otpResend": "Resend OTP",
+
+  "setPasswordTitle": "Set Password",
+  "setPasswordSubtitle": "Enter 6 digits to secure your account.",
+  "newPasswordLabel": "NEW PASSWORD",
+  "confirmPasswordLabel": "CONFIRM PASSWORD",
+  "passwordMismatch": "Passwords do not match. Please try again.",
+  "passwordIncomplete": "Please enter 6 digits for both fields.",
+
+  "homeGreeting": "HELLO,",
+  "homeGreetingName": "There!",
+  "yourLocation": "YOUR LOCATION",
+  "sampleAddress": "23 Le Loi, District 1, Ho Chi Minh City",
+  "serviceName_ride": "Ride",
+  "serviceSubtitle_ride": "Fast transport",
+  "serviceName_food": "Food",
+  "serviceSubtitle_food": "Delivered in 20m",
+  "serviceName_delivery": "Delivery",
+  "serviceSubtitle_delivery": "Safe, affordable",
+  "serviceName_market": "Market",
+  "serviceSubtitle_market": "We shop for you",
+  "promoBadge1": "New Offer",
+  "promoTitle1": "50% Off\nFirst Ride",
+  "promoBadge2": "Payment",
+  "promoTitle2": "Get 20K Back\nwith E-wallet",
+  "recentOrders": "Recent Orders",
+  "seeAll": "See All",
+  "suggestedTitle": "JUST FOR YOU",
+  "suggestedHeader": "Where do you want to go?",
+  "bookNow": "Book Now",
+  "navHome": "Home",
+  "navRide": "Ride",
+  "navFood": "Food",
+  "navVoucher": "Voucher",
+  "navProfile": "Me",
+
+  "errorOtpWrong": "OTP is incorrect. Please try again.",
+  "errorBiometricNoPIN": "No saved password for biometric login.",
+  "errorNetworkGeneric": "No internet connection. Please try again."
+}

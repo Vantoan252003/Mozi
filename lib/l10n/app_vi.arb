@@ -1,0 +1,72 @@
+{
+  "@@locale": "vi",
+
+  "appName": "GoMove",
+
+  "continueBtn": "Tiếp tục",
+  "loginBtn": "Đăng nhập",
+  "confirmBtn": "Xác nhận",
+  "finishRegistrationBtn": "Hoàn tất đăng ký",
+
+  "welcomeTitle": "Chào mừng bạn!",
+  "welcomeSubtitle": "Nhập số điện thoại để tiếp tục.",
+  "phoneNumber": "SỐ ĐIỆN THOẠI",
+  "phoneHint": "000 000 000",
+  "termsPrefix": "Bằng cách tiếp tục, bạn đồng ý với ",
+  "termsLink": "Điều khoản & Chính sách",
+  "termsSuffix": " của chúng tôi.",
+  "needHelp": "BẠN CẦN HỖ TRỢ?",
+
+  "loginTitle": "Đăng nhập",
+  "loginSubtitle": "Chào mừng quay trở lại,",
+  "forgotPassword": "Quên mật khẩu?",
+  "loginWithOtp": "Đăng nhập bằng OTP",
+
+  "otpTitle": "Xác thực OTP",
+  "otpSentTo": "Mã xác thực đã được gửi đến số ",
+  "otpResendAfter": "Gửi lại mã sau {seconds}s",
+  "@otpResendAfter": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  },
+  "otpResend": "Gửi lại OTP",
+
+  "setPasswordTitle": "Thiết lập mật khẩu",
+  "setPasswordSubtitle": "Nhập 6 chữ số để bảo mật tài khoản của bạn.",
+  "newPasswordLabel": "MẬT KHẨU MỚI",
+  "confirmPasswordLabel": "XÁC NHẬN MẬT KHẨU",
+  "passwordMismatch": "Mật khẩu xác nhận không khớp. Vui lòng thử lại.",
+  "passwordIncomplete": "Vui lòng nhập đủ 6 số cho cả hai ô.",
+
+  "homeGreeting": "XIN CHÀO,",
+  "homeGreetingName": "Bạn ơi!",
+  "yourLocation": "VỊ TRÍ CỦA BẠN",
+  "sampleAddress": "23 Lê Lợi, Q.1, TP. Hồ Chí Minh",
+  "serviceName_ride": "Đặt xe",
+  "serviceSubtitle_ride": "Di chuyển nhanh",
+  "serviceName_food": "Đồ ăn",
+  "serviceSubtitle_food": "Giao ngay 20p",
+  "serviceName_delivery": "Giao hàng",
+  "serviceSubtitle_delivery": "An tâm, giá rẻ",
+  "serviceName_market": "BeMarket",
+  "serviceSubtitle_market": "Đi chợ hộ bạn",
+  "promoBadge1": "Ưu đãi mới",
+  "promoTitle1": "Giảm 50%\nchuyến đầu",
+  "promoBadge2": "Thanh toán",
+  "promoTitle2": "Hoàn 20K\nqua Ví MoMo",
+  "recentOrders": "Đặt gần đây",
+  "seeAll": "Xem tất cả",
+  "suggestedTitle": "DÀNH RIÊNG CHO BẠN",
+  "suggestedHeader": "Bạn muốn đi đâu?",
+  "bookNow": "Đặt xe ngay",
+  "navHome": "Trang chủ",
+  "navRide": "Xe",
+  "navFood": "Đồ ăn",
+  "navVoucher": "Voucher",
+  "navProfile": "Tôi",
+
+  "errorOtpWrong": "Mã OTP không đúng. Vui lòng thử lại.",
+  "errorBiometricNoPIN": "Chưa có mật khẩu được lưu cho Biometric.",
+  "errorNetworkGeneric": "Không có kết nối mạng. Vui lòng thử lại."
+}
